@@ -107,3 +107,26 @@ Wireframes emphasise usability and content placement. This ensures the final pro
 Wireframes make it simple to test and refine ideas quickly.  
 - Example: Instead of reworking code, a team can update a wireframe to reflect new requirements.  
 
+## Wireframing in Practice  
+
+Wireframing is most effective when applied early in the development cycle. It helps teams detect usability issues before any code is written.  
+
+### Real-World Scenario  
+During the design of a booking system (similar to the `alx-booking-uc.PNG` wireframe), the team created wireframes to map the user flow for scheduling appointments.  
+
+**Issue Identified:**  
+- Users struggled to locate the “Confirm Booking” button because it was placed at the bottom of a long form.  
+- Early feedback showed that users often missed the final step, leaving bookings incomplete.  
+
+**Resolution:**  
+- The team adjusted the wireframe to place a sticky “Confirm Booking” button at both the top and bottom of the form.  
+- They also added progress indicators so users could see how many steps remained.  
+
+**Impact on Final Product:**  
+- Usability tests after changes showed higher task completion rates.  
+- Developers implemented the revised design directly, avoiding costly rework.  
+- The final system delivered a smoother, more intuitive booking experience.  
+
+### Conclusion  
+This example shows how wireframing uncovers usability problems before development begins. By iterating quickly at the wireframe stage, teams save time, reduce costs, and ensure a user-friendly design. Wireframes serve as a roadmap, aligning stakeholders, designers, and developers around a clear vision of the product.  
+
