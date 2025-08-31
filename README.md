@@ -30,6 +30,30 @@ When creating a wireframe, four key elements form the foundation of the design:
 - Helps prioritise the hierarchy of information.  
 - Example: On a product page, the product image is placed on the left while the description and price appear on the right.
 
+## Types of Wireframes
+
+Wireframes can be divided into two main categories: **Low-Fidelity** and **High-Fidelity**. Each type serves a different purpose in the design process.
+
+### Low-Fidelity Wireframes
+- Simple and quick sketches that focus on structure and layout rather than detail.  
+- Often created using pen and paper or basic digital tools.  
+- Used early in the design process to brainstorm and communicate ideas.  
+- Example: Boxes representing images and lines representing text without worrying about fonts, colors, or exact sizing.
+
+### High-Fidelity Wireframes
+- More detailed and closer to the final product.  
+- Show typography, spacing, colors, and sometimes interactive elements.  
+- Used later in the design process to refine design decisions and share with stakeholders for approval.  
+- Example: A polished wireframe of a landing page with actual text, button labels, and precise spacing.
+
+---
+
+## Identifying the Wireframe Type
+
+The example provided here is a **High-Fidelity Wireframe**.  
+- It includes detailed content, button placement, and accurate spacing.  
+- It is used to test user interaction and get realistic feedback before moving into full development.
+
 ### 4. Functionality
 - Highlights interactive elements and how they should behave.  
 - Includes buttons, forms, input fields, dropdowns, and checkboxes.  
