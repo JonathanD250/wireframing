@@ -83,3 +83,27 @@ Creating wireframes is easier with dedicated tools that provide templates, drag-
 
 - Example: In a checkout page wireframe, the "Proceed to Payment" button is clearly shown below the order summary.
 
+## Benefits of Wireframing in Software Development
+
+Wireframing is not only a design step; it also plays a key role in software development. It provides a shared visual guide for both designers and developers.  
+
+### 1. Guides the Design Process  
+Wireframes provide a clear outline of the layout, navigation, and functionality before coding begins.  
+- Example: Instead of jumping straight into HTML/CSS, developers can refer to the wireframe to understand where each component belongs.  
+
+### 2. Improves Communication  
+Wireframes act as a bridge between team members. Designers, developers, and stakeholders all see the same structure, reducing misunderstandings.  
+- Example: A product manager and a developer reviewing a wireframe can align on what the “Login” page should look like before development.  
+
+### 3. Saves Time and Costs  
+By identifying issues early, wireframes prevent costly redesigns during coding.
+- Example: If navigation is unclear, it’s easier to fix at the wireframe stage than rewrite front-end code later.  
+
+### 4. Keeps the User in Focus  
+Wireframes emphasise usability and content placement. This ensures the final product matches user expectations.  
+- Example: Testing a wireframe with users before development helps confirm that buttons, menus, and flows make sense.  
+
+### 5. Supports Iteration and Feedback  
+Wireframes make it simple to test and refine ideas quickly.  
+- Example: Instead of reworking code, a team can update a wireframe to reflect new requirements.  
+
