@@ -38,11 +38,11 @@ Wireframes can be divided into two main categories: **Low-Fidelity** and **High-
 - Simple and quick sketches that focus on structure and layout rather than detail.  
 - Often created using pen and paper or basic digital tools.  
 - Used early in the design process to brainstorm and communicate ideas.  
-- Example: Boxes representing images and lines representing text without worrying about fonts, colors, or exact sizing.
+- Example: Boxes representing images and lines representing text without worrying about fonts, colours, or exact sizing.
 
 ### High-Fidelity Wireframes
 - More detailed and closer to the final product.  
-- Show typography, spacing, colors, and sometimes interactive elements.  
+- Show typography, spacing, colours, and sometimes interactive elements.  
 - Used later in the design process to refine design decisions and share with stakeholders for approval.  
 - Example: A polished wireframe of a landing page with actual text, button labels, and precise spacing.
 
@@ -56,6 +56,30 @@ The example provided here is a **High-Fidelity Wireframe**.
 
 ### 4. Functionality
 - Highlights interactive elements and how they should behave.  
-- Includes buttons, forms, input fields, dropdowns, and checkboxes.  
+- Includes buttons, forms, input fields, dropdowns, and checkboxes.
+
+## Wireframing Tools
+
+Creating wireframes is easier with dedicated tools that provide templates, drag-and-drop elements, and collaboration features. Some popular wireframing tools include:
+
+- **Figma**  
+  Figma is one of the most widely used tools for wireframing and UI design.  
+  Features:  
+  - Web-based, no installation required  
+  - Real-time collaboration with team members  
+  - Easy drag-and-drop components for quick wireframing  
+  - Supports both low-fidelity and high-fidelity wireframes  
+  Why it’s useful: Figma allows designers and developers to work together in real time, making it fast and efficient to move from sketches to interactive designs.  
+
+- **Adobe XD**  
+  Offers vector-based design tools and prototyping features.  
+  Good for teams working within the Adobe ecosystem.  
+
+- **Sketch**  
+  Popular for Mac users, it integrates well with plugins and design systems.  
+
+- **Balsamiq**  
+  Focuses on low-fidelity wireframes. Provides a simple, sketch-like style to keep attention on layout instead of design details.
+
 - Example: In a checkout page wireframe, the "Proceed to Payment" button is clearly shown below the order summary.
 
